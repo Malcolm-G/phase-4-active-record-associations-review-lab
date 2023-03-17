@@ -1,4 +1,4 @@
-class CreateRides < ActiveRecord::Migration[6.1]
+columnsclass CreateRides < ActiveRecord::Migration[6.1]
   def change
     create_table :rides do |t|
 
